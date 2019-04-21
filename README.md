@@ -1,1 +1,1 @@
-# Movie Info search page appication.
+# Movie Info search page application.
