@@ -1,1 +1,1 @@
-# node_projects
+# Movie Info search page appication.
